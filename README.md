@@ -14,3 +14,7 @@ Bu atölye, Generative AI teknolojilerini kullanarak uygulama geliştirmeyi öğ
 Atölyemizle ilgili en güncel bilgileri ve duyuruları takip etmek için sosyal medya hesaplarımızı ziyaret edebilirsiniz:
 
 - [Twitter ve Diğer Sosyal Medyalar](https://linktr.ee/aifusion3)
+
+## Atölye İçerikleri
+
+Atölyemizde ürettiğimiz içeriklere [buradan](https://aifusion3.notion.site/Generative-AI-At-lyesi-055a7a86c27f47698a9ef8fc4030fd8f) ulaşabilirsiniz.
